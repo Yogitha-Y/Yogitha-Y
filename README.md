@@ -13,16 +13,7 @@ Passionate about transforming raw data into meaningful insights through visualiz
 
 ---
 
-## 🚀 About Me
 
-- 📈 Aspiring Data Analyst
-- 🧹 Experienced in data cleaning and transformation
-- 📊 Building interactive dashboards and reports
-- 🐍 Learning advanced Python for analytics
-- ☁️ Exploring Azure Data Services
-- 📚 Continuous learner passionate about data-driven decision making
-
----
 
 # 🛠 Tools & Technologies
 
@@ -138,7 +129,16 @@ Cloud-based analytics solution utilizing Azure services for data processing and 
 </p>
 
 ---
+## 🚀 About Me
+ -  Hi, I'm Yogitha 👋   Salesforce Certified Administrator (ADM-201) transitioning into Data Analytics.I’m currently strengthening my skills through a Data Technician Bootcamp. I work with tools like Excel, SQL, Python, Power BI, and Tableau to analyse data and build impactful visualisations.Open to opportunities in Data Analytics
+- 📈 Aspiring Junior Data Analyst
+- 🧹 Experienced in data cleaning and transformation
+- 📊 Building interactive dashboards and reports
+- 🐍 Learning advanced Python for analytics
+- ☁️ Exploring Azure Data Services
+- 📚 Continuous learner passionate about data-driven decision making
 
+---
 
 ---
 
