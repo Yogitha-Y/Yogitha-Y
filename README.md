@@ -1,11 +1,15 @@
 
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hi%20there%20👋%20I'm%20Yogitha&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
-</p>
+<div align="center">
+
+# Hi there 👋 I'm Yogitha
+
+### 📊 Junior Data Analyst
 
 
+<img src="https://skillicons.dev/icons?i=python,mysql,azure,github" />
+
+</div>
 
 ### 📊 Aspiring Data Analyst
 
