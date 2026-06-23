@@ -4,7 +4,6 @@
 
 # Hi there 👋 I'm Yogitha
 
-### 📊 Junior Data Analyst
 
 
 <img src="https://skillicons.dev/icons?i=python,mysql,azure,github" />
@@ -48,66 +47,22 @@ Passionate about transforming raw data into meaningful insights through visualiz
 
 ---
 
-# 📋 Skills Summary
 
-### 📊 Microsoft Excel
-- Formulas & Functions
-- Pivot Tables
-- Data Cleaning
-- Sorting & Filtering
-- Lookup Functions (VLOOKUP, XLOOKUP)
-- Charts & Reports
-- Dashboard Creation
+## 🔧 Technical Skills
 
-### 📈 Power BI
-- Data Modeling
-- Power Query
-- DAX Calculations
-- Interactive Dashboards
-- KPI Reporting
-- Data Transformation
-- Business Intelligence Solutions
+| Technology   | Skills Summary |
+|--------------|----------------|
+| **Data Analysis** | Data cleaning, transformation & analysis; identifying trends; data visualisation; supporting data-driven decisions |
+| **📊 Microsoft Excel** |  Data cleaning & preparation; Lookup Functions(VLOOKUP/XLOOKUP); Pivot tables; Charts & Reports; Sorting & Filtering; Dashboard creation |
+| **📈 Power BI** | Power Query; Data modelling; DAX calculations; Interactive dashboards; KPI reporting; Data Transformation; Business Intelligence Solutions  |
+| **📉 Tableau** | Interactive dashboards; Data Visualization; Storytelling with Data; Filters & parameters; Maps & geographical analysis; Business Reporting|
+| **🗄 SQL** | MySQL queries; Joins; Aggregations; Subqueries; Window functions; Data extraction |
+| **🐍 Python** | Variables & Data Types;Loops & Conditional Statements; Functions; Data analysis; Automation; Problem-solving |
+| **🐼 Pandas** |DataFrames;  Data Cleaning;  Data Manipulation; Filtering & Sorting; Exploratory Data Analysis (EDA);  Data Transformation|
+| **☁️ Microsoft Azure** |  Azure Fundamentals; Cloud data concepts; Azure Data Services; Resource Management; Cloud Analytics Solutions; Data storage; |
 
-### 📉 Tableau
-- Interactive Dashboards
-- Data Visualization
-- Storytelling with Data
-- Filters & Parameters
-- Maps & Geographical Analysis
-- Business Reporting
 
-### 🗄 SQL
-- MySQL Queries
-- Joins
-- Aggregations
-- Subqueries
-- Window Functions
-- Data Extraction
-- Database Management
 
-### 🐍 Python
-- Variables & Data Types
-- Loops & Conditional Statements
-- Functions
-- Data Analysis
-- Automation
-- Problem Solving
-
-### 🐼 Pandas
-- DataFrames
-- Data Cleaning
-- Data Manipulation
-- Filtering & Sorting
-- Exploratory Data Analysis (EDA)
-- Data Transformation
-
-### ☁️ Microsoft Azure
-- Azure Fundamentals
-- Cloud Concepts
-- Data Storage
-- Azure Data Services
-- Resource Management
-- Cloud Analytics Solutions
 
 ---
 
